@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.section-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.margin {
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.margin-text {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.background-section-one {
+    background-image: url(../assets/bg4.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background-section-two {
+    background-image: url(../assets/bg4.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-footer {
+   height: 75px;
+   padding: 25px;
+   color: #fff;
+}
